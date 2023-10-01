@@ -1,0 +1,21 @@
+Completion by Thursday
+
+Sunday: 
+Create files and deploy it locally
+Wireframe your website 
+Version Control 
+Begin building home page 
+
+Monday: 
+Finish Home Page 
+Build Contact Page 
+Begin to style content 
+
+Wednesday: 
+Finish styling content
+Make it interactive (add a javascript feature - mouseover on contact image to change to picture of me smiling) 
+Make it responsive
+Publish to the web 
+
+
+
