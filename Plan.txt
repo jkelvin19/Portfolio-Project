@@ -1,21 +1,44 @@
 Completion by Thursday
 
 Sunday: 
-Create files and deploy it locally
-Wireframe your website 
-Version Control 
-Begin building home page 
+Create files and deploy it locally DONE
+Wireframe your website DONE
+Version Control DONE
+Begin building home page DONE
+Finish Home Page DONE
+Build Contact Page DONE
 
 Monday: 
-Finish Home Page 
-Build Contact Page 
-Begin to style content 
-
-Wednesday: 
-Finish styling content
+Style content
 Make it interactive (add a javascript feature - mouseover on contact image to change to picture of me smiling) 
 Make it responsive
 Publish to the web 
 
+Wednesday: 
 
+
+
+Wireframe 
+
+James Kelvin 									Intro Projects Skills Contact 
+
+
+About 
+sdkjhfkwsfh				Photo (with JS mouseover feature changing to smiling picture)
+difdksfjdsljf
+skjfskdfhksdj
+sjdnskjdsdjlsl
+dfndkjldsfsfljs
+kjsdnksjsjdldl
+
+
+Projects
+
+Mixed Messages 					Portfolio website
+Photo 						Photo 
+Tech Stack 					Tech Stack 
+
+
+
+Contact 
 
